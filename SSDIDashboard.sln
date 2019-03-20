@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDIDashboard", "SSDIDashboard\SSDIDashboard.csproj", "{8443FE96-97D0-4EF8-83A7-122BDA278F30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonicData", "SonicData\SonicData.csproj", "{5291B81D-8F24-4960-A3B8-B1580DDDA868}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8443FE96-97D0-4EF8-83A7-122BDA278F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8443FE96-97D0-4EF8-83A7-122BDA278F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8443FE96-97D0-4EF8-83A7-122BDA278F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5291B81D-8F24-4960-A3B8-B1580DDDA868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5291B81D-8F24-4960-A3B8-B1580DDDA868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5291B81D-8F24-4960-A3B8-B1580DDDA868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5291B81D-8F24-4960-A3B8-B1580DDDA868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
